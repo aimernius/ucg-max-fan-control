@@ -1,7 +1,7 @@
 [Unit]
 Description=UCG-Max/Fibre Adaptive Fan Controller
 After=basic.target
-Documentation=https://github.com/iceteaSA/ucg-max-fan-control
+Documentation=https://github.com/aimernius/ucg-max-fan-control
 
 [Service]
 Type=simple
